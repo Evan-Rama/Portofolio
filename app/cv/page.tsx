@@ -161,7 +161,7 @@ export default function CVPage() {
               <div>
                 <h4 className="font-semibold mb-3">Soft Skills</h4>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  {["Leadership", "Public Speaking", "Collaboration", "Problem Solving", "Collaboration"].map(
+                  {["Leadership", "Public Speaking", "Teamwork", "Problem Solving", "Collaboration"].map(
                     (skill) => (
                       <Badge key={skill} variant="outline" className="text-xs">
                         {skill}
