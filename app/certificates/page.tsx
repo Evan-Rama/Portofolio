@@ -15,7 +15,7 @@ export default function CertificatesPage() {
       issuer: "DQLab",
       credentialId: "#DQLABBDASPGPB17BWMEHN",
       description:
-        "Validates expertise in developing and maintaining applications on the AWS platform, including deployment, debugging, and optimization.",
+        "",
       skills: ["SQL", "Python"],
       image: "/sertif1.png",
       verifyUrl: "#",
@@ -25,9 +25,19 @@ export default function CertificatesPage() {
       issuer: "Beelingua",
       credentialId: "2024-B-feorrv9wgKv76",
       description:
-        "Comprehensive program covering React fundamentals, advanced patterns, state management, and modern development practices.",
+        "",
       skills: ["English"],
       image: "/sertif2.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "Freshmen Leader",
+      issuer: "Binus University",
+      credentialId: "2025",
+      description:
+        "",
+      skills: ["Leadership"],
+      image: "/sertif7.png",
       verifyUrl: "#",
     },
     {
@@ -35,7 +45,7 @@ export default function CertificatesPage() {
       issuer: "Beelingua",
       credentialId: "2024-C-K67efBO4nlDdi",
       description:
-        "Demonstrates proficiency in Google Cloud Platform, including data analysis, reporting, and cloud architecture.",
+        "",
       skills: ["English"],
       image: "/sertif3.png",
       verifyUrl: "#",
@@ -45,7 +55,7 @@ export default function CertificatesPage() {
       issuer: "Beelingua",
       credentialId: "2024-C-sz47Yn4gimKfl",
       description:
-        "Validates understanding of Scrum framework, agile principles, and ability to facilitate Scrum teams effectively.",
+        "",
       skills: ["English"],
       image: "/sertif4.png",
       verifyUrl: "#",
@@ -55,7 +65,7 @@ export default function CertificatesPage() {
       issuer: "Beelingua",
       credentialId: "2024-C-cYmPSa8SfBosX",
       description:
-        "Demonstrates expertise in MongoDB database design, development, and optimization for modern applications.",
+        "",
       skills: ["English"],
       image: "/sertif5.png",
       verifyUrl: "#",
@@ -65,9 +75,69 @@ export default function CertificatesPage() {
       issuer: "Beelingua",
       credentialId: "2024-C-DNd0j0yPElq6i",
       description:
-        "Covers Kubernetes administration, cluster management, networking, and troubleshooting in production environments.",
+        "",
       skills: ["English"],
       image: "/sertif6.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "Certificate Of Appreciation",
+      issuer: "NUNI",
+      credentialId: "2024",
+      description:
+        "",
+      skills: ["Seminar"],
+      image: "/sertif10.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "1st Winner Mobile Legends Campus Tournament",
+      issuer: "Mie Sedap",
+      credentialId: "2023",
+      description:
+        "",
+      skills: ["E-Sport"],
+      image: "/miesedap.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "2nd Winner Mobile Legends Burncup Tournament",
+      issuer: "Binus University",
+      credentialId: "2023",
+      description:
+        "",
+      skills: ["E-Sport"],
+      image: "/bc1.jpg",
+      verifyUrl: "#",
+    },
+    {
+      title: "Cracking the Code: How Business Analysts is Shaping the Workfore of Tomorrow",
+      issuer: "Binus University",
+      credentialId: "2023",
+      description:
+        "",
+      skills: ["Seminar"],
+      image: "/sertif8.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "A Holistic Perspective on Accessibility, Inclusion and Design for All",
+      issuer: "Binus University",
+      credentialId: "2023",
+      description:
+        "",
+      skills: ["Seminar"],
+      image: "/sertif9.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "Best Short Movie Competition",
+      issuer: "Global Islamic School",
+      credentialId: "2021",
+      description:
+        "",
+      skills: ["Videography"],
+      image: "/alter.jpg",
       verifyUrl: "#",
     },
   ]

@@ -127,9 +127,6 @@ export default function ExperiencePage() {
           <h2 className="text-4xl font-bold text-center mb-4 gradient-text">
             🎓 Education
           </h2>
-          <p className="text-xl text-center text-card-foreground mb-16">
-            Academic foundation and continuous learning
-          </p>
           
           <div className="grid md:grid-cols-2 gap-8">
             {/* Main Education Card */}

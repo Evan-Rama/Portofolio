@@ -133,7 +133,8 @@ export default function AboutPage() {
                 { name: "Cisco Networking"},
                 { name: "HTML"},
                 { name: "CSS"},
-                { name: "Figma"}
+                { name: "Figma"},
+                { name: "Ms Office"}
               ].map((skill, index) => (
                 <div key={index} className="hover-float" style={{ animationDelay: `${index * 0.1}s` }}>
                   <div className="flex items-center justify-between mb-2">

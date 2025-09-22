@@ -136,6 +136,8 @@ const projectsData = {
     features: [
       "Star Topology",
       "Ring Topology",
+      "Network Cost and Media Calculation",
+      "IP Addressing and Subnetting",
     ],
     liveUrl: "https://www.canva.com/design/DAGYhWoFeeQ/UcfqyTjY9xoDRVPFu2eOOw/edit",
     githubUrl: "https://github.com/Evan-Rama/CiscoNetworkBinus",

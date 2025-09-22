@@ -45,7 +45,7 @@ export default function ProjectsPage() {
       title: "Cisco Network Simulation Project",
       description:
         "Designed and simulated a Cisco-based enterprise network for a three-floor office building at BINUS University Bekasi.",
-      image: "/project-management-team.png?height=300&width=400&query=analytics dashboard charts",
+      image: "/cp8.png",
     },
   ]
 

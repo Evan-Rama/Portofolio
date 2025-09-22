@@ -141,7 +141,7 @@ export default function CVPage() {
               <div>
                 <h4 className="font-semibold mb-3">Backend</h4>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  {["C", "Python", "Java", "MySQL", "Cisco Networking"].map((skill) => (
+                  {["C", "Python", "Java", "MySQL"].map((skill) => (
                     <Badge key={skill} variant="outline" className="text-xs">
                       {skill}
                     </Badge>
@@ -151,7 +151,7 @@ export default function CVPage() {
               <div>
                 <h4 className="font-semibold mb-3">Tools & Technologies</h4>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  {["Github", "Vercel", "Figma", "VSCode"].map((skill) => (
+                  {["Github", "Vercel", "Figma", "VSCode", "Cisco Networking"].map((skill) => (
                     <Badge key={skill} variant="outline" className="text-xs">
                       {skill}
                     </Badge>
