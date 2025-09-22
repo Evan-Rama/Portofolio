@@ -16,7 +16,7 @@ export default function CVPage() {
           <h1 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Curriculum Vitae</h1>
           <div className="flex justify-center gap-4">
             {/* Download PDF */}
-            <a href="/CV_EvanRama.pdf" download>
+            <a href="/CV_Evan.pdf" download>
               <Button className="bg-accent hover:bg-accent/90">Download PDF</Button>
             </a>
             {/* View CV */}
@@ -220,7 +220,7 @@ export default function CVPage() {
                 ✕
               </button>
               <img
-                src="CV_EvanRama.jpg"
+                src="CV_Evan.jpg"
                 alt="CV Evan Rama Firjatullah"
                 className="w-full max-w-md h-auto rounded mx-auto"
               />
