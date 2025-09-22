@@ -222,7 +222,7 @@ export default function CVPage() {
               <img
                 src="CV_EvanRama.jpg"
                 alt="CV Evan Rama Firjatullah"
-                className="w-full h-auto rounded"
+                className="w-full max-w-md h-auto rounded mx-auto"
               />
             </div>
           </div>
