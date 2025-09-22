@@ -21,16 +21,6 @@ export default function CertificatesPage() {
       verifyUrl: "#",
     },
     {
-      title: "English B-Level",
-      issuer: "Beelingua",
-      credentialId: "2024-B-feorrv9wgKv76",
-      description:
-        "",
-      skills: ["English"],
-      image: "/sertif2.png",
-      verifyUrl: "#",
-    },
-    {
       title: "Freshmen Leader",
       issuer: "Binus University",
       credentialId: "2025",
@@ -38,6 +28,16 @@ export default function CertificatesPage() {
         "",
       skills: ["Leadership"],
       image: "/sertif7.png",
+      verifyUrl: "#",
+    },
+    {
+      title: "English B-Level",
+      issuer: "Beelingua",
+      credentialId: "2024-B-feorrv9wgKv76",
+      description:
+        "",
+      skills: ["English"],
+      image: "/sertif2.png",
       verifyUrl: "#",
     },
     {
