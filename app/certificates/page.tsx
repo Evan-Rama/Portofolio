@@ -21,6 +21,16 @@ export default function CertificatesPage() {
       verifyUrl: "#",
     },
     {
+      title: "Freshmen Partner",
+      issuer: "Binus University",
+      credentialId: "2025",
+      description:
+        "",
+      skills: ["Mentoring"],
+      image: "/sertiffp.png",
+      verifyUrl: "#",
+    },
+    {
       title: "Freshmen Leader",
       issuer: "Binus University",
       credentialId: "2025",
