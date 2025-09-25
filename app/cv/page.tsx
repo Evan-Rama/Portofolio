@@ -182,6 +182,8 @@ export default function CVPage() {
               {[
                 "DQLab Data Analyst",
                 "English Beelingua",
+                "Freshmen Partner",
+                "Freshmen Leader",
               ].map((cert, index) => (
                 <div key={index} className="flex items-center gap-3">
                   <div className="w-2 h-2 bg-accent rounded-full"></div>
